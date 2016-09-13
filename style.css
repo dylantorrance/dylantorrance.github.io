@@ -8,3 +8,24 @@ body {
   text-shadow: 2px 2px #000000;
   text-align: center;
 }
+
+h1 {
+  font size
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  font size: 500px;
+}
