@@ -1,21 +1,32 @@
 body {
   margin: 0 auto;
-  font-size: 40px;
+  font-size: 20px;
   font-family: Georgia, serif;
   background-color: #b3ffe6;
-  color: #ff4060;
+  background-image: url("http://i.imgur.com/YUiorQ3.png");
+  text-shadow: 0 0 .5em white;
+  color: #404040;
   line-height: 1.2;
-  text-shadow: 2px 2px #000000;
   text-align: center;
+  max-width: 25em
 }
 
 h1 {
-  font size
+  font-size: 40px
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-a:link {
+h2 {
+  /*here is where i will put my header before my links*/
+}
+
+a {
+  font-size: 30px;
+  font-family: Georgia, serif;
+  text-shadow: 0 0 .5em red;
   color: blue;
+  line-height: 1.2;
+  text-align: center;
 }
 
 a:visited {
@@ -23,9 +34,9 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: underline;
+  color: green;
 }
 
 a:active {
-  font size: 500px;
+  color: red;
 }
