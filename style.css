@@ -4,7 +4,7 @@ body {
   font-family: Georgia, serif;
   background-color: #b3ffe6;
   background-image: url("http://i.imgur.com/YUiorQ3.png");
-  text-shadow: 0 0 .5em white;
+  text-shadow: 0 0 1em white;
   color: #404040;
   line-height: 1.2;
   text-align: center;
@@ -23,7 +23,7 @@ h2 {
 a {
   font-size: 30px;
   font-family: Georgia, serif;
-  text-shadow: 0 0 .5em red;
+  text-shadow: 0 0 1em white;
   color: blue;
   line-height: 1.2;
   text-align: center;
