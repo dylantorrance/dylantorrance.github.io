@@ -6,12 +6,13 @@ body {
   text-shadow: 0 0 1em white;
   color: #404040;
   line-height: 1.2;
+  text-align: center;
   align: center;
-  max-width: 25em
+  max-width: 25em;
 }
 
 h1 {
-  font-size: 40px
+  font-size: 40px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
